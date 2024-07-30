@@ -22,8 +22,8 @@ Product Features:
 - Dark Mode feature to allocate towards user experience and interface (UI/UX).    
 
 My contributions:
-- Project File and Database Setup. I researched on how to organize project files, what packages and dependencies are needed, and how to deploy the Cloud database.
+- Project File and Database Setup. I researched how to organize project files, what packages and dependencies are needed, and how to deploy the Cloud database. 
 - Backend Initialization. I created the routes, Models, and Schemas regarding the User and Recipe information. I also set up how and what User and Recipe data will be stored in the database. Tested the connectivity and functionality using Postman API. 
-- Frontend Initialization/Website Setup. Initial design and template of the different web pages (home, create-recipes, and saved-recipes).
-- CRUD Operations. Designed and implemented functionality for users to be able to create, read, delete, and update recipes locally as well as delete and update Spoonacular recipes. Worked parallely along with website setting up website to test functionaltiy. Managed Recipe and User data using MongoDB Compass to ensure frontend was working with backend. 
-- Save Recipes. Designed and implemented functionality for users to be able to save local and Spoonacular recipes across website. Also tested using MongoDB Compass. 
+- Frontend Initialization / Website Setup. Initial design and template of the different web pages (home, create-recipes, and saved-recipes). 
+- CRUD Operations. Designed and implemented functionality for users to be able to create, read, delete, and update recipes locally as well as delete and update Spoonacular recipes. Worked parallelly along with website setting up website to test functionality. Managed Recipe and User data using MongoDB Compass to ensure frontend was working with backend. 
+- Save Recipes. Designed and implemented functionality for users to able to save local and Spoonacular recipes across website. Also tested using MongoDB Compass.
