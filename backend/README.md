@@ -13,7 +13,8 @@ yarn add argon2, cors, axios, dotenv, express, jsonwebtoken, mongoose, nodemon
     "start": "nodemon ./server.js"
   }
 ```
-3. Next, 
+
+3. Next, add these changes to .env file for backend: 
 ```
 PORT=3000
 SECRET="8aJaDbI6DtHof5jvDD75J23HSo923hIU3298dn"
@@ -21,4 +22,7 @@ MONGO_URI="mongodb+srv://<username>:<password>@recipeapp.avdvskp.mongodb.net/rec
 SPOONACULARAPI=<your spoonacular api key>
 ```
 
-4. Finally
+4. Finally, run yarn start while in the backend folder and press y for default settings. The backend/database should activate.
+```
+yarn start -y
+```
